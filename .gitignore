@@ -92,5 +92,4 @@ tests/triangle-vulkan
 tests/windows
 
 # Hazel-specific
-bin
-bin-int
+bin/
